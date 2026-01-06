@@ -99,7 +99,7 @@ If any required items are not complete, please refer to the detailed setup instr
 ```bash
 # Clone the repository
 git clone [REPOSITORY_URL]
-cd copilot-analysts-lab
+cd copilot-analyst-requirements-lab
 
 # Verify structure
 ls -la
